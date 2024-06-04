@@ -1,51 +1,72 @@
 ---
 title: About
 seo:
-  page_description: 
-  canonical_url: 
-  featured_image: 
-  author_twitter_handle: 
+  page_description:
+  canonical_url:
+  featured_image:
+  author_twitter_handle:
   open_graph_type:
   no_index: false
 content_blocks:
   - _bookshop_name: page-heading
     title: About
     description:
-  - _bookshop_name: page-image
-    image: /images/page-1.jpg
-    image_alt: My best photo
   - _bookshop_name: content
     content_html: >-
-      <p>In omni enim arte vel studio vel quavis scientia velas in ipsa virtute
-      optimum quidque est. Quod est, ut dixi, habere ea, quae secundum naturam
-      sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique
-      pertectam atque absolutam. Tecum optime, deindestum etiam cum mediocri
-      amico. Neque enim disputari sine reprehensione nec cum iracundia aut
-      pertinacia recte disputari potest. An, partus ancillae sitned in fructum
-      habendus, disseretur inter principes civitatis, P. Ut in geometria, prima
-      si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a
-      te dicta sunt. Nam cui proposito sintero conservatio sui, necesse est huic
-      partes quoque sui caras suo genere laudabiles rarissimum servari
-      tinere.</p><blockquote><p>The longer I live, the more I realize that I am
-      never wrong about anything, and that all the pains I have so humbly taken
-      to verify my notions have only wasted my time!</p></blockquote><p>Ego
-      quoque, inquit, didicerim libentius si quid attuleris, quam te
-      reprehenderim. I am quod insipientes alios ita esse, ut nullo modo ad
-      sapientiam possent pervenire, alios, qui possent, si id egissent,
-      sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses
-      te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab
-      amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui voluptate et
-      dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod
-      velit quam quod nolit. Quae quidem sapientes sequuntur duce natura tamquam
-      videntes. Quod enim dissolutum sit, id esse sine sensu, quod autem sine
-      sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino
-      plurimas gentis cantibus arbitramur, primarium populi fuisse, quod
-      praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram
-      tandem linguam nescio. Quod dicit Epicurus voluptate terra perfectio.</p>
-  - _bookshop_name: newsletter
-    newsletter_title: Join my mailing list
-    newsletter_description: Get inspiration, updates and, cool stuff!
-    newsletter_identifier: >-
-      frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-    newsletter_button: Subscribe
+      <p>I was born in Dunedin, New Zealand where I lived with my parents and
+      two older brothers. My family moved to Wānaka in Central Otago in 1999,
+      where we lived for the next ten years. I attended Wānaka Primary School,
+      and then Mt Aspiring College for intermediate. My brothers moved back to
+      Dunedin to attend University, so not too long after they moved, we
+      followed them back. I attended Bayfield High School from 2009 - 2013 where
+      I was heavily involved in sports throughout high school - I played
+      netball, basketball, and volleyball.<br /><br />After high school, I moved
+      to a very small, rural town called Owings, Maryland, in the US. I spent 15
+      months there where I worked as an Au Pair for an awesome family of five. I
+      took care of three children, aged three, eight, and ten.<br /><br />When I
+      returned home to NZ in 2015, I got a job as a casual lab assistant working
+      in an animal genetics lab. I spend one year working there learning a lot
+      about genetics, and performing hands-on lab procedures such as sample
+      prep, quality checking, and DNA extractions.</p><p></p><p>After saving up
+      enough money in that role, I headed off to enjoy the European summer for
+      four months. I visited 18 countries, made new friends, visited family, and
+      made so many unforgettable memories. Switzerland easily became my most
+      favourite in the world!</p><p></p><p>After my travels, I came home to
+      Dunedin and secured a permanent role as a Laboratory Technician at my old
+      job. I worked here for the next seven years where I was constantly
+      upskilling, taking on more responsibility, and always learning. I
+      transitioned from my full time lab role, to being full time in the office.
+      I was the main point of contact for all of our customers, so gained four
+      years of customer service experience in this role. I also took care of
+      ensuring all animal information was checked and loaded into our various
+      databases. I was then taught how to do the parentage and breed analysis
+      for a range of species that came into the lab.</p><p>After seven years in
+      my lab job, I decided to study 10 years after leaving high school. I spent
+      one year of online leaning, where I completed my Level 5 diploma in Web
+      Development and Design. Throughout that year I learnt the basics of HTML,
+      CSS and JavaScript. We build our own basic front-end focused websites, and
+      went on to backend development. This included API's, schemas, and
+      authentication.</p><p>During the first day of my third term break, I was
+      in Ireland visiting family. As I was boarding a plane, I got an email
+      saying my education provider had gone into liquidation, with only one term
+      of the school year left to go. Luckily, I was able to find another
+      provider, where I completed the remaider of my diploma.</p><p>During my
+      studies, I worked at the Office Manager for CloudCannon LTD. CloudCannon
+      is a Dunedin startup focused on simplifying the complexities of website
+      management. They do this by combining a powerful, user-friendly Content
+      Management System (CMS) with seamless static site generator integration. I
+      was so lucky to be able to work and study in the most beautiful office,
+      with extremely talented developers who always gave me expert advice and
+      help when I needed it on the way.</p><p>In December 2023 I was hired as a
+      Web Development Intern for CloudCannon, working in the Enterprise Success
+      Team. For three months I was exposed to exciting and challenging tasks
+      like learning new languages, SSGs, and taking on client work. I
+      Implemented accessibility features to ensure inclusivity for all users on
+      our existing templates, and I Optimised websites for search engines by
+      implementing SEO best practices to improve visibility and organic traffic.
+      The coolest project I worked on was for our biggest client - Netflix. I
+      helped migrate Netflix's internal documentation websites from Google Sites
+      to CloudCannon. It was such rewarding work, backed by the best
+      people.</p><p>After my internship, I was hired by CloudCannon as a
+      full-time Junior Software/engineer.</p>
 ---

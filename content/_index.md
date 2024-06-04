@@ -8,14 +8,16 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: hero
-    title: Hi there, I am Vanessa Marley
+    title: Hi there, I'm Kate
     description_html: >-
-      <p><strong>Photographer</strong> and <strong>Visual Content
-      Strategist</strong> from Albany. I work as a lifestyle, product, and
-      landscape photographer, creating images for a diverse range of requests,
-      from online media to printed artwork.</p>
-    image: /images/01.jpg
-    image_alt: Vanessa Marley's picture
+      <p>I'm a <strong>Software Engineer</strong> hailing from the beautiful
+      city of Dunedin, New Zealand. I have recently begun my journey in the tech
+      world, so I'm always keen to learn more and develop awesome stuff on the
+      web. I thrive on the buzz of collaborating with a vibrant team, bringing
+      ideas to life, and tackling challenges head-on. Let's build cool things
+      together and make a difference.</p>
+    image: /uploads/img-1422.jpg
+    image_alt: Kate's picture
     cta_button: Get in touch
     cta_button_link: '#contact'
     works_button: See my works
