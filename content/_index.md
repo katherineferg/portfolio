@@ -13,9 +13,7 @@ content_blocks:
       <p>I'm a <strong>Software Engineer</strong> hailing from the beautiful
       city of Dunedin, New Zealand. I have recently begun my journey in the tech
       world, so I'm always keen to learn more and develop awesome stuff on the
-      web. I thrive on the buzz of collaborating with a vibrant team, bringing
-      ideas to life, and tackling challenges head-on. Let's build cool things
-      together and make a difference.</p>
+      web Let's build cool things together and make a difference.</p>
     image: /uploads/img-1422.jpg
     image_alt: Kate's picture
     cta_button: Get in touch
