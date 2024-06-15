@@ -8,7 +8,7 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: hero
-    title: Hi there, I'm Kate Test
+    title: Hi there, I'm Kate
     description_html: >-
       <p>I'm a <strong>Software Engineer</strong> hailing from the beautiful
       city of Dunedin, New Zealand. I have recently begun my journey in the tech
