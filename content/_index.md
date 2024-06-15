@@ -40,10 +40,4 @@ content_blocks:
       yours even better!</p>
     link_url: /blog
     show_posts: true
-  - _bookshop_name: contact-form
-    form_title: Get in touch
-    form_description: Vonge comes with a built-in contact form.
-    form_success_page: ''
-    form_submission_email: site@example.com
-    form_button_text: Send now
 ---
